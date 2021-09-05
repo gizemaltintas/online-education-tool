@@ -15,8 +15,8 @@ Project demo video: https://youtu.be/hzprzM6c2U8
 - Maven
 
 ## Contributors
-- Batuhan Gökçe
 - Nur Gizem Altıntaş
+- Batuhan Gökçe
 - İbrahimcan Ödel
 - İdil Bilge Can
 - Assoc. Prof. Yusuf Sahillioğlu (Supervisor)
